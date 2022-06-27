@@ -1,7 +1,10 @@
 {
   "name": "projeto-cookenu",
   "version": "1.0.0",
-  "description": "",
+  "description": "Cookenu",
+  "engines": {
+    "node": "16.x"
+  },
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev ./src/index.ts",
